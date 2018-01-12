@@ -1,0 +1,30 @@
+{
+    "name": "@hoot-hoot/togemfury",
+    "version": "0.0.0",
+    "description": "Pushes the current package to gemfury.",
+    "author": "Hoot-Hoot team",
+    "scripts": {},
+    "bin": {
+        "togemfury": "togemfury.sh"
+    },
+    "keywords": [
+        "gemfury",
+        "npm",
+        "push"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hoot-hoot/togemfury.git"
+    },
+    "homepage": "https://github.com/hoot-hoot/togemfury#readme",
+    "filesPack": {
+        "src/togemfury.sh": "f:togemfury.sh",
+        "README.md": "f:README.md",
+        "package.json": "f:package.json"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "json": "=9.0.4"
+    },
+    "devDependencies": {}
+}
