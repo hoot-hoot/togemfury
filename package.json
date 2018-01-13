@@ -1,6 +1,6 @@
 {
-    "name": "@hoot-hoot/togemfury",
-    "version": "0.0.0",
+    "name": "@hoothoot/togemfury",
+    "version": "0.0.1",
     "description": "Pushes the current package to gemfury.",
     "author": "Hoot-Hoot team",
     "scripts": {},
