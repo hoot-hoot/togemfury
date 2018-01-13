@@ -1,8 +1,8 @@
 {
-    "name": "@hoothoot/togemfury",
-    "version": "0.0.2",
+    "name": "@truesparrow/togemfury",
+    "version": "0.0.3",
     "description": "Pushes the current package to gemfury.",
-    "author": "Hoot-Hoot team",
+    "author": "CHM SQRT2 Team",
     "scripts": {},
     "bin": {
         "togemfury": "togemfury.sh"
@@ -14,9 +14,9 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/hoot-hoot/togemfury.git"
+        "url": "git+https://github.com/truesparrow/togemfury.git"
     },
-    "homepage": "https://github.com/hoot-hoot/togemfury#readme",
+    "homepage": "https://github.com/truesparrow/togemfury#readme",
     "filesPack": {
         "src/togemfury.sh": "f:togemfury.sh",
         "README.md": "f:README.md",
